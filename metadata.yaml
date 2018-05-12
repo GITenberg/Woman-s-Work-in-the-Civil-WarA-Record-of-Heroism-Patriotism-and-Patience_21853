@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '24928'
     url: http://www.gutenberg.org/2009/agents/24928
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21853#Woman-s-Work-in-the-Civil-WarA-Record-of-Heroism-Patriotism-and-Patience
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-06-18'
 gutenberg_type: Text
