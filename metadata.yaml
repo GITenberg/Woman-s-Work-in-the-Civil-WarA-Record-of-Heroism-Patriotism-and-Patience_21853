@@ -1,0 +1,43 @@
+_repo: Woman-s-Work-in-the-Civil-WarA-Record-of-Heroism-Patriotism-and-Patience_21853
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Bellows, Henry W. (Henry Whitney)
+    alias: Bellows, Henry Whitney
+    birthdate: 1814
+    deathdate: 1882
+    gutenberg_agent_id: '24930'
+    url: http://www.gutenberg.org/2009/agents/24930
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Vaughan, Mary C.
+    gutenberg_agent_id: '24929'
+    url: http://www.gutenberg.org/2009/agents/24929
+  - agent_name: Brockett, L. P. (Linus Pierpont)
+    aliases:
+    - Hazelton, Joseph Powers
+    - Brockett, Linus Pierpont
+    birthdate: 1820
+    deathdate: 1893
+    gutenberg_agent_id: '24928'
+    url: http://www.gutenberg.org/2009/agents/24928
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Women'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Hospitals'
+title: 'Woman''s Work in the Civil War: A Record of Heroism, Patriotism, and Patience'
+url: http://www.gutenberg.org/ebooks/21853
